@@ -43,7 +43,7 @@ function setup() {
 }
 
 function draw() {
-  background("red");
+  background(180);
   
   
   if(keyDown("space")&& trex.y >= 100) {
